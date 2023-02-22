@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(183, 165, 200);
+}
+
+h1,
+h2,
+p {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-size: 22px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#intro {
+  padding-bottom: 20px;
+  text-align: center;
+  margin: 0;
+  min-width: 500px;
+}
+
+.headshot {
+  max-height: 150px;
+  border-radius: 20px;
+  border: 5px solid black;
+}
+
+.game-container {
+  padding: 30px;
+  background-color: white;
+  border-radius: 20px;
+  max-width: 700px;
+}
